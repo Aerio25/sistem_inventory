@@ -1,6 +1,9 @@
 # PT. Sinergi  Unity Global
-ngarang
-visi & misi
+Visi
+Menjadi perusahaan perdagangan rempah-rempah dan hasil bumi Indonesia yang terpercaya, kompetitif, dan berkelas dunia dalam mendukung pertumbuhan ekonomi berkelanjutan.
+Misi
+Berkomitmen untuk menyediakan rempah-rempah dan hasil bumi Indonesia berkualitas tinggi melalui kemitraan yang kuat dengan petani dan pemasok lokal, mengembangkan jaringan perdagangan yang luas di pasar domestik maupun internasional, menjaga standar mutu produk secara konsisten, memberikan pelayanan yang profesional dan terpercaya kepada pelanggan, serta menciptakan nilai tambah yang berkelanjutan bagi seluruh pemangku kepentingan dengan mengedepankan integritas, inovasi, dan tanggung jawab sosial serta lingkungan.
+
 user 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1bc1384d-1797-4c14-9640-ad1caf64d9b2" />
 
