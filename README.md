@@ -1,7 +1,10 @@
 # PT. Sinergi  Unity Global
 Visi
+
 Menjadi perusahaan perdagangan rempah-rempah dan hasil bumi Indonesia yang terpercaya, kompetitif, dan berkelas dunia dalam mendukung pertumbuhan ekonomi berkelanjutan.
+
 Misi
+
 Berkomitmen untuk menyediakan rempah-rempah dan hasil bumi Indonesia berkualitas tinggi melalui kemitraan yang kuat dengan petani dan pemasok lokal, mengembangkan jaringan perdagangan yang luas di pasar domestik maupun internasional, menjaga standar mutu produk secara konsisten, memberikan pelayanan yang profesional dan terpercaya kepada pelanggan, serta menciptakan nilai tambah yang berkelanjutan bagi seluruh pemangku kepentingan dengan mengedepankan integritas, inovasi, dan tanggung jawab sosial serta lingkungan.
 
 user 
@@ -13,4 +16,6 @@ login
 admin
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/acb0f25f-7440-4e97-b154-78ffabe7cbb4" />
 
-nama & nim
+Aerio Widi Prayoga
+
+352310950
