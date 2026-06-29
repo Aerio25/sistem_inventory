@@ -17,7 +17,12 @@ admin
 <img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/d2360eb7-7ab5-4701-9d05-199684c362a9" />
 
 Profil
+
 <img width="342" height="356" alt="Image" src="https://github.com/user-attachments/assets/45a6e1d7-d676-46ff-92d0-9156de2e51a6" />
+
+Register
+
+<img width="1918" height="1015" alt="Image" src="https://github.com/user-attachments/assets/a7358098-81f4-4ff7-a41d-51a4270576d6" />
 
 Aerio Widi Prayoga
 
