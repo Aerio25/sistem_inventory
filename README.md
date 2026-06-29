@@ -14,6 +14,8 @@ login
 <img width="1847" height="913" alt="Image" src="https://github.com/user-attachments/assets/4908b511-9f3d-4b91-9a3a-09aac3c74de4" />
 
 admin
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/d2360eb7-7ab5-4701-9d05-199684c362a9" />
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/acb0f25f-7440-4e97-b154-78ffabe7cbb4" />
 
 <img width="337" height="357" alt="Image" src="https://github.com/user-attachments/assets/debd3431-ed19-44c9-ac0c-f64be651cf13" />
