@@ -16,8 +16,8 @@ login
 admin
 <img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/d2360eb7-7ab5-4701-9d05-199684c362a9" />
 
-
-<img width="337" height="357" alt="Image" src="https://github.com/user-attachments/assets/debd3431-ed19-44c9-ac0c-f64be651cf13" />
+Profil
+<img width="342" height="356" alt="Image" src="https://github.com/user-attachments/assets/45a6e1d7-d676-46ff-92d0-9156de2e51a6" />
 
 Aerio Widi Prayoga
 
